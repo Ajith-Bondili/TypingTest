@@ -21,7 +21,3 @@ A web-based typing test game to track your Words Per Minute (WPM) by typing the 
 2. Click "New Game" to start.
 3. Type the words displayed on the screen as fast and accurately as possible.
 4. Your WPM will be displayed at the end of the test.
-
-## View the Project
-
-Check out the live project [here](https://ajith-bondili.github.io/TypingTest/).
